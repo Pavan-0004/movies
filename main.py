@@ -1,6 +1,8 @@
 import streamlit as st
 st.header("Movies Links")
+st.write("I bomma Link - [ibomma](https://men.ibomma.bond/telugu-movies/)")
 st.write("Movie  [గుంటూరు కారం] - (https://dev.ibomma.nexus/te-a1cwn/guntur-kaaram-2024-uav2q-telugu-movie-watch-online.html)")
+st.write("Movie [Animal](https://men.ibomma.bond/te-a1cwn/animal-2023-u3tch-telugu-movie-watch-online.html)")
 st.write("Movie rulz website [movierulz] - (https://ww26.watchmovierulz.to/)")
 st.write("Movie [Jailer](https://ww5.ibomma.link/te-a1cwn/jailer-2023-g5dbs-telugu-movie-watch-online.html)")
 st.write("Movie [Bro](https://ww5.ibomma.link/te-a1cwn/bro-2023-y6fdv-telugu-movie-watch-online.html)")
