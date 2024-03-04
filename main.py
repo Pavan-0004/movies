@@ -1,6 +1,7 @@
 import streamlit as st
 st.header("Movies Links")
 st.write("I bomma Link - [ibomma](https://men.ibomma.bond/telugu-movies/)")
+st.write(" MOVIE - [Ooru peru Bhairavakonam](https://ww3.5movierulz.win/ooru-peru-bhairavakona-2024-dvdscr-telugu-full-movie-watch-online-free/)")
 st.write("Movie  [గుంటూరు కారం] - (https://dev.ibomma.nexus/te-a1cwn/guntur-kaaram-2024-uav2q-telugu-movie-watch-online.html)")
 st.write("Movie [Animal](https://men.ibomma.bond/te-a1cwn/animal-2023-u3tch-telugu-movie-watch-online.html)")
 st.write("Movie rulz website [movierulz] - (https://ww26.watchmovierulz.to/)")
