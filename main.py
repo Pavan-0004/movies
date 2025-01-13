@@ -6,4 +6,5 @@ st.write("PUSHPA 2 - [PUSHPA](https://day.ibomma.observer/ca-tex4c/pushpa-the-ru
 st.write("I bomma Link - [ibomma](https://osk.ibomma.wf/telugu-movies/)")
 st.write(" Lucky Baskhar - [Lucky Baskhar](https://www.5movierulz.io/lucky-baskhar-2024-telugu/movie-watch-online-free-3649.html)")
 st.write(" Movierulz - (https://www.5movierulz.rip/)")
-components.iframe("https://www.example.com", width=800, height=600) 
+components.iframe("https://www.youtube.com", width=800, height=600) 
+components.iframe("https://www.5movierulz.rip/daaku-maharaaj-2025-telugu/movie-watch-online-free-4064.html", width=800, height=600) 
