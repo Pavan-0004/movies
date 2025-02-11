@@ -10,11 +10,8 @@ st.write(" Movierulz - (https://www.5movierulz.rip/)")
 '''
 #html_string = "<div style="padding:42.5% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1050532555?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sankranthiki Vasthunam"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>"
 st.markdown(
-    '<div style="padding:42.5% 0 0 0;position:relative;">'
-    '<iframe src="https://player.vimeo.com/video/1050532555?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" '
-    'frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" '
-    'style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Sankranthiki Vasthunam"></iframe></div>'
-    '<script src="https://player.vimeo.com/api/player.js"></script>',
+<iframe src="https://player.vimeo.com/video/1055648052?h=3577ceb630&amp;title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1282" height="534" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" title="Game-Changer-(2025)-Telugu-Original-HDRip-720p-HQ (1)"></iframe>
+,
     unsafe_allow_html=True
 )
 
